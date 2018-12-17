@@ -1,4 +1,5 @@
 # hello-world
 Phillips world of learning
-//Just wondering around and browsing on github for some sample code to start my journey with.
-\\
+
+*/Interested in starting out with learning Java and while I am doing that, exploring around the Android Studio IDE but I am really interested in the Java platform right now.
+\*
